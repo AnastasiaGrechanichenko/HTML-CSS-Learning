@@ -1,0 +1,39 @@
+body {
+        font-family: Arial, Helvetica, sans-serif
+        line-height: 1.6;
+        max-width: 700px;
+        margin: 30px :left;
+        padding: 0 15px;
+        background-color: #e8e6e6;
+        color: black;
+      }
+      
+      h1 {
+        text-align: center;
+        font-size: 2em;
+        margin-top: center;
+        color:#4B367C
+
+      }
+      h2,h3 {
+        font-size: 1.5em;
+        color:#8A9CB2;
+      }
+      
+      
+      .prologue {
+        text-align: left;
+        margin: 1em 0;
+      }
+      .stage-direction{
+        font-style: italic;
+        text-align: left;
+        margin: 1em 0;
+      }
+      .character {
+        font-weight: bold;
+        color: #8A9CB2;;
+      }
+      .line  {
+        margin: top right bottom left 0 0 1em 2em;
+      }

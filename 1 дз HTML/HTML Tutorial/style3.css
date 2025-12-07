@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(227, 229, 230);
+    line-height: 1.2;
+}
+h1,h2{
+    text-align:center;
+}
+.abbreviation{
+    font-weight:bold;
+}
+.abbreviation.abr{
+    text-decoration: underline dotted;
+}
+.tn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9em;
+    background-color: #c5c3c3;
+    padding: 2px 4px;
+    color: rgb(243, 69, 69)
+}
+.t{
+    font-style: italic;
+}
+.cod{
+    background-color: rgb(182, 181, 179);
+    color: rgb(243,69,69);
+    width: 28em;
+}
+.black{
+    color: black;
+}
+.b{
+    font-weight: bold;
+}
+.tn.blue{
+    color: rgb(166, 244, 244);
+}

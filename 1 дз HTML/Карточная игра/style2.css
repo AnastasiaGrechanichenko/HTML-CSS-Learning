@@ -1,0 +1,43 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    margin: 0;
+    background-color: gainsboro;
+    padding: 20px;
+    }
+.player-container{
+    margin-bottom: 25px;
+}
+.player-container h2 {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+.cards-row{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.card{
+    background: rgb(189, 186, 186);
+    border:solid #ddd;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font-size: 24px;
+    font-weight:bold;
+}
+.card.red{
+    color:red
+}
+.card.black{
+    color: black;
+}
+h1{
+    text-align: center;
+}
